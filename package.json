@@ -1,0 +1,20 @@
+{
+  "name": "Mr Kuemmel",
+  "version": "1.0.0",
+  "description": "ready to code!",
+  "main": "bot.js",
+  "author": "big boi",
+  "scripts": {
+    "start": "node bot.js" 
+  },
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.2.1",
+    "edit-google-spreadsheet": "^0.3.0",
+    "enmap": "^0.4.4",
+    "enmap-level": "^1.0.1",
+    "fs": "0.0.1-security",
+    "markovchain-generate": "^1.0.11",
+    "winston": "^2.4.0"
+  }
+}
