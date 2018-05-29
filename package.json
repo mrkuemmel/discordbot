@@ -1,11 +1,13 @@
 {
+  "token": "NDUwMzg5NTkyODAyMTk3NTI0.De3EMQ.1QAgeTjYaYdwAtVLEutW6GEokr0",
+  "prefix": "stevie.",
   "name": "Mr Kuemmel",
   "version": "1.0.0",
   "description": "ready to code!",
   "main": "bot.js",
   "author": "big boi",
   "scripts": {
-    "start": "node bot.js" 
+    "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "^11.2.1"
