@@ -1,1 +1,6 @@
-
+a cat
+a dog
+a big dog
+a big cat
+a cat dog
+a dog cat
